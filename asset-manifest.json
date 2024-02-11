@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-valentine/static/css/main.92a0c39b.css",
+    "main.js": "/my-valentine/static/js/main.616438ac.js",
+    "static/media/cards.png": "/my-valentine/static/media/cards.1fee4d14d8c83866436c.png",
+    "static/media/heart-with-love.png": "/my-valentine/static/media/heart-with-love.f49fcc1886dc837a8b6f.png",
+    "static/media/heart-with-wings.png": "/my-valentine/static/media/heart-with-wings.ccb8b2b3724bca7ab03d.png",
+    "static/media/air-balloon-with-clouds.png": "/my-valentine/static/media/air-balloon-with-clouds.99a3ed255cd0a50cf997.png",
+    "static/media/BG IMG.png": "/my-valentine/static/media/BG IMG.2353c5b4a7b84a8b4ca8.png",
+    "static/media/QuentinRegular.ttf": "/my-valentine/static/media/QuentinRegular.4f2e1ea87e2c28b8ff52.ttf",
+    "static/media/hearts-bg.png": "/my-valentine/static/media/hearts-bg.f69be7e1274a8ff9f7e5.png",
+    "index.html": "/my-valentine/index.html",
+    "main.92a0c39b.css.map": "/my-valentine/static/css/main.92a0c39b.css.map",
+    "main.616438ac.js.map": "/my-valentine/static/js/main.616438ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92a0c39b.css",
+    "static/js/main.616438ac.js"
+  ]
+}
